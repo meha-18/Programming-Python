@@ -4,7 +4,7 @@
 
 📚 Currently learning: Python, Language C, and developement web.
 
-🛠 Skills
+🛠 Skills :
 
 Programming: Python and C (Beginner)
 
@@ -12,6 +12,6 @@ Web: HTML5, CSS3
 
 Tools: Git, GitHub, Microsoft Office
 
-📫 How to reach me
+📫 How to reach me :
 
 LinkedIn: [www.linkedin.com/in/maha-fariz]
