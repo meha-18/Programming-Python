@@ -15,3 +15,14 @@ Tools: Git, GitHub, Microsoft Office
 📫 How to reach me :
 
 LinkedIn: [www.linkedin.com/in/maha-fariz]
+
+💻 My Projects :
+
+1. Days Lived Calculator (`days_lived_calc.py`)
+This script calculates the total number of days you have lived based on your age.
+
+2. Celsius Converter (`celsius_converter.py`)
+A simple tool to convert temperatures from Celsius to Fahrenheit.
+
+3. Student Grade Calculator
+A script that calculates the final average based on TP, Assignments, and Exams, and determines the student's status (Admis/Ajourné/Exclus).
