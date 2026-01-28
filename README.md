@@ -1,3 +1,5 @@
+👋 Hi there, I'm Maha!
+
 🎓 I'm a first-year Computer Science student.
 
 🚀 I'm passionate about technology and software development.
